@@ -1,0 +1,11 @@
+id_historico,id_funcionario,mes,ano,salario
+1,1,Janeiro,2021,4800.00
+2,1,Fevereiro,2021,4900.00
+3,2,Janeiro,2021,4400.00
+4,2,Fevereiro,2021,4500.00
+5,3,Janeiro,2021,5900.00
+6,3,Fevereiro,2021,6000.00
+7,4,Janeiro,2021,7000.00
+8,4,Fevereiro,2021,7100.00
+9,5,Janeiro,2021,7900.00
+10,5,Fevereiro,2021,8000.00

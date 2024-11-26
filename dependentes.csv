@@ -1,0 +1,11 @@
+id_dependente,id_funcionario,nome_dependente,idade,parentesco
+1,1,Ana Martins,10,Filha
+2,1,Lucas Silva,8,Filho
+3,2,Carlos Oliveira,12,Filho
+4,3,Ana Santos,15,Filha
+5,4,Pedro Costa,5,Filho
+6,5,Juliana Almeida,18,Filha
+7,6,Gabriel Souza,7,Filho
+8,7,Fernanda Lima,10,Filha
+9,8,Rafael Rocha,14,Filho
+10,1,Beatriz Mendes,6,Filha

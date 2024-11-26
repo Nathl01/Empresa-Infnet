@@ -1,0 +1,6 @@
+id_cargo,descricao_cargo,salario_base,nivel_cargo,carga_horaria
+1,Estagiário,1500.00,Estagiário,20
+2,Técnico,3000.00,Técnico,40
+3,Analista,5000.00,Analista,40
+4,Gerente,7000.00,Gerente,40
+5,Diretor,10000.00,Diretor,40

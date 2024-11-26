@@ -1,0 +1,7 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,id_funcionario,custo_projeto,status
+1,Projeto Alpha,Desenvolvimento de software,2023-01-01,2023-06-01,1,50000.00,Concluído
+2,Projeto Ômega,Melhoria de segurança,2023-04-26,2023-06-08,1,70000.00,Concluído
+3,Projeto Delta,Expansão das Equipes,2023-02-28,2023-05-07,2,25000.00,Concluído
+4,Projeto Beta,Implementação de infraestrutura,2023-02-15,2023-07-15,2,23000.00,Em Execução
+5,Projeto Gamma,Campanha de marketing,2023-03-01,2023-08-01,3,30000.00,Em Execução
+6,Projeto Kappa,Migração para cloud,2023-07-30,2023-10-27,2,40000.00,Em Planejamento

@@ -1,0 +1,11 @@
+id_funcionario,nome_funcionario,id_cargo,id_departamento,salario_real,data_admissao
+1,João Silva,1,1,5000.00,2020-01-15
+2,Maria Oliveira,2,2,4500.00,2019-03-10
+3,Pedro Santos,3,3,6000.00,2018-07-22
+4,Ana Costa,4,4,7000.00,2021-05-30
+5,Lucas Almeida,5,5,8000.00,2017-11-12
+6,Carla Souza,1,1,5200.00,2020-02-18
+7,Bruno Lima,2,2,4700.00,2019-04-25
+8,Fernanda Rocha,3,3,6200.00,2018-08-30
+9,Rafael Mendes,4,4,7200.00,2021-06-15
+10,Juliana Martins,5,5,8200.00,2017-12-20
